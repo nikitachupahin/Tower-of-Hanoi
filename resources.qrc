@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourses/fonts/Inkfree.ttf</file>
+        <file>resourses/images/iconTower.png</file>
+    </qresource>
+</RCC>
